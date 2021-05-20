@@ -1,5 +1,7 @@
 package sample.problemdomain;
 
+import sample.constants.GameState;
+
 public class SudokuGame {
     private final GameState gameState;
     private final int[][] gridState;
