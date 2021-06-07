@@ -1,5 +1,6 @@
 package sample.userinterface.logic;
 
+import sample.computationlogic.GameLogic;
 import sample.constants.GameState;
 import sample.constants.Messages;
 import sample.problemdomain.IStorage;
